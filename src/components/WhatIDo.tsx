@@ -87,14 +87,22 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>DEVELOP</h3>
-              <h4>Description</h4>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+            <h3>DEVELOP</h3>  
+              <h4>Description</h4>  
+              <p>  
+                We are looking for a skilled and passionate developer with expertise in  
+                <strong>Ruby, Python, and C#</strong>. The ideal candidate will be responsible for  
+                designing, developing, and maintaining robust software solutions.  
+                Strong problem-solving abilities and a deep understanding of modern  
+                development practices are essential.  
               </p>
+
               <h5>Skillset & tools</h5>
-              <div className="what-content-flex">
+                <div className="what-content-flex">
+                <div className="what-tags">Ruby</div>
+                <div className="what-tags">Python</div>
+                <div className="what-tags">C#</div>
+                <div className="what-tags">Java</div>
                 <div className="what-tags">JavaScript</div>
                 <div className="what-tags">TypeScript</div>
                 <div className="what-tags">Three.js</div>
@@ -103,7 +111,7 @@ const WhatIDo = () => {
                 <div className="what-tags">Node.js</div>
                 <div className="what-tags">Next.js</div>
                 <div className="what-tags">Express.js</div>
-                <div className="what-tags">PHP</div>
+                <div className="what-tags">Postgresql</div>
                 <div className="what-tags">MySql</div>
               </div>
               <div className="what-arrow"></div>
@@ -128,12 +136,16 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>DESIGN</h3>
-              <h4>Description</h4>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+            <h3>DESIGN</h3>  
+              <h4>Description</h4>  
+              <p>  
+                We are seeking a creative and detail-oriented UI/UX designer with expertise in  
+                <strong>Tailwind CSS, SASS, React.js, Angular, and Bootstrap 5</strong>. The ideal candidate  
+                will be responsible for crafting responsive, visually appealing, and user-friendly  
+                interfaces. A strong understanding of modern front-end frameworks and design principles  
+                is essential.  
               </p>
+
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
                 <div className="what-tags">Blender</div>
